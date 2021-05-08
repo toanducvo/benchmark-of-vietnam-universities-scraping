@@ -2,17 +2,19 @@
 
 ## Run commands
 
+### Install dependencies with pipenv
+
 ```
 pipenv install
 pipenv shell
 ```
-or 
+### or virtualenv 
 
 ```
 pip install -r requirements.txt
 ```
 
-Run spider
+then run spider
 
 ```
 python spider.py
